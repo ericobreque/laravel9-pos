@@ -166,10 +166,10 @@ return [
         'notifiable' => \Spatie\Backup\Notifications\Notifiable::class,
 
         'mail' => [
-            'to' => 'ariyan@easylearningbd.com',
+            'to' => 'obreque.eric@gmail.com',
 
             'from' => [
-   'address' => env('MAIL_FROM_ADDRESS', 'support@easylearningbd.com'),
+   'address' => env('MAIL_FROM_ADDRESS', 'obreque.eric@gmail.com'),
                 'name' => env('MAIL_FROM_NAME', 'DatabaseBackup'),
             ],
         ],

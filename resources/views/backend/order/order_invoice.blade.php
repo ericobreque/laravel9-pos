@@ -48,14 +48,14 @@
     <tr>
         <td valign="top">
           <!-- {{-- <img src="" alt="" width="150"/> --}} -->
-          <h2 style="color: green; font-size: 26px;"><strong>EasyShop</strong></h2>
+          <h2 style="color: green; font-size: 26px;"><strong>Point of Sale</strong></h2>
         </td>
         <td align="right">
             <pre class="font" >
-               EasyShop Head Office
-               Email:support@easylearningbd.com <br>
+               Point of Sale
+               Email:obreque.eric@gmail.com <br>
                Mob: 1245454545 <br>
-               Dhaka 1207,Dhanmondi:#4 <br>
+               Los Ángeles, Chile <br>
               
             </pre>
         </td>

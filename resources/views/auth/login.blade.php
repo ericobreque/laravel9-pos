@@ -113,7 +113,7 @@
 
 
         <footer class="footer footer-alt">
-            2023 - <script>document.write(new Date().getFullYear())</script> &copy; Easy by <a href="" class="text-white-50">Easylearning</a> 
+            2023 - <script>document.write(new Date().getFullYear())</script> &copy; Easy by <a href="" class="text-white-50">EricObreque</a> 
         </footer>
 
         <!-- Vendor js -->
