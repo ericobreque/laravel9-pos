@@ -59,7 +59,7 @@ return [
             'strict' => true,
             'engine' => 'InnoDB',
             'dump' => [
-            'dump_binary_path' => 'C:/localhost/mysql/bin', //  
+            'dump_binary_path' => 'C:\wamp64\bin\mysql\mysql8.0.36\bin', //  
             'use_single_transaction',
             'timeout' => 60 * 5, // 5 minute timeout             
             ],
